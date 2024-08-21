@@ -1,0 +1,33 @@
+body {
+    color: blue;
+    background:#ffffff;
+    margin: 0px;
+    font-family: "Chakra Petch", sans-serif;
+}
+
+header {
+    padding: 10px;
+    font-size: 50px;
+    color: blue;
+    margin-left: 570px;
+}
+h2 {
+    border-bottom: solid 3px rgb(0, 0, 0);
+}
+
+.div1 {
+    margin-left: 180px;
+}
+section {
+    background: lightblue;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+div {
+    margin-right: 200px;
+}
+img {
+    height: 200px;
+  }
